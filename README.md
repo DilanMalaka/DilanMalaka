@@ -5,24 +5,22 @@
 ## 💻 About Me
 
 - 🔭 I am a dedicated Software Engineering
-undergraduate with
-great problem-solving
+graduate with
+excellent problem-solving
 skills. I am also a good
-communicator who is
-able to understand
+communicator who can understand
 complex technical
 concepts. I have strong
 problem-solving and
-analytical skills. Self
-motivated and a quick
-learner. I can adapt to any environment in a quick-time. Currently I am
-looking for opportunities in order to gain
+analytical skills. Self-motivated and a quick
+learner. I can adapt to any environment quickly. Currently, I am
+working as a software engineer at Epic Technology Group in Sri Lanka.
 experience.
 
-- 🌱 Currently I'm learning React js & Node js
+- 🌱 Currently I'm learning AWS
 - 👯 I’m looking to collaborate with other self-motivated learning developers
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to sing, play guitar & listen music
+- 🥅 2024 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to sing, play guitar & listen to music
 
 
 
